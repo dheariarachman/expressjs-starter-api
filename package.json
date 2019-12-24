@@ -1,0 +1,28 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Web",
+    "Api"
+  ],
+  "author": "Dhea Aria Rachman",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "env-cmd": "^10.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.3",
+    "validator": "^12.1.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}

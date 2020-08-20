@@ -14,7 +14,7 @@
   "author": "Dhea Aria Rachman",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "env-cmd": "^10.0.1",
     "express": "^4.17.1",
     "mongodb": "^3.4.1",
